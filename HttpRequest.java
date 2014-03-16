@@ -1,5 +1,7 @@
 /**
-* HttpRequest.java
+* class: HttpRequest.java	programmer: Nadya Pena
+* Purpose: The Purpose of this class is to create the HttpRequest object and sockets to establish connection
+*  Once a connection has been established, users may download content from server via a web browser
 */
 
 import java.io.*;
